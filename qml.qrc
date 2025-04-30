@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/HistogramCustom.qml</file>
+        <file>qml/components/ProgressBarCustom.qml</file>
+        <file>qml/components/ControlPanel.qml</file>
+        <file>qml/components/ButtonCustom.qml</file>
+    </qresource>
+</RCC>
