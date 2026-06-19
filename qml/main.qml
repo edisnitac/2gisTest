@@ -52,7 +52,7 @@ Window {
 			value: ws.progress
 			Behavior on value {
 				NumberAnimation {
-					duration: 100 // Плавная анимация
+					duration: 100 
 					easing.type: Easing.Linear
 				}
 			}
