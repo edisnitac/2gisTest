@@ -7,7 +7,7 @@ Button{
 	id: root
 
 	property string textColor: "white"
-	property string pressedColor: "#0168f9"//синий #0168f9 зеленый #30ad00 серый #989bab
+	property string pressedColor: "#0168f9"
 	property string normalColor: "#30ad00"
 	property int impH: 0
 	property int impW: 0
